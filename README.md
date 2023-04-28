@@ -266,7 +266,7 @@ int main(void)
   /* USER CODE END 3 */
 }
 
-: M SANJAY
+programed by : M SANJAY
 Register No :212222110038
 ~~~
 
